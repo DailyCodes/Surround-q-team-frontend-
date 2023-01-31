@@ -40,6 +40,8 @@ Vercel을 통해 배포하였으며,
 
 ## 환경 변수 및 시크릿
 
+```
 REACT_APP_REST_API_KEY =
 REACT_APP_REDIRECT_URI =
 REACT_APP_SERVER =
+```
