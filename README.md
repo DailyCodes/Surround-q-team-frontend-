@@ -1,4 +1,4 @@
-# [TEAM Z] Repository 이름
+# [TEAM Q] Repository 이름
 
 ... Repository에 대한 간략한 설명 ...
 
@@ -40,6 +40,6 @@ Vercel을 통해 배포하였으며,
 
 ## 환경 변수 및 시크릿
 
-REACT_APP_REST_API_KEY = 98792ab4fa0c089a40d2c7637f996bfb
-REACT_APP_REDIRECT_URI = http://localhost:3000/redirect
-REACT_APP_SERVER = http://ec2-13-125-10-144.ap-northeast-2.compute.amazonaws.com:3000
+REACT_APP_REST_API_KEY =
+REACT_APP_REDIRECT_URI =
+REACT_APP_SERVER =
